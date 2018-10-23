@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 wao
+=======
+hello
+>>>>>>> 5eaf554d47ef4f93ecdd0626e5585d046a8cbcc5
