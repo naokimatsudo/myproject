@@ -16,6 +16,7 @@ void exchange (int *x, int *y){
 }
 
 int main(){
+    //ポインタはアドレスを指定しなければならない。らしい。
     int a;
     int b;
     int *x = &a;
